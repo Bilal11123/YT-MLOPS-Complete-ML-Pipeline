@@ -1,0 +1,8 @@
+dvc
+pandas
+numpy
+matplotlib
+wordcloud
+nltk
+scikit-learn
+xgboost
